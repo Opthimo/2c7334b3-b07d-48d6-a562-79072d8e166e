@@ -72,7 +72,7 @@ This exercise will teach you how to open a file, manipulate it, write it back to
 
 ## 3) Questions
 1. What are the three primary modes of `vim`, and how do you switch between them?
-Normal, INSERT, EDITOR
+Normal, INSERT, CLI
 2. How do you create and save a new file in `vim`?
 vim <FILENAME> oder vim and :w <FILENAME>
 3. What is the purpose of the `:enew` command in `vim`?
